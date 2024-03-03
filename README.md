@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lili24777
+- 👀 I’m interested in Crypto
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on work on Cosmos
+- 📫 How to reach me - text me here
